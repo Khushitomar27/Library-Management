@@ -1,2 +1,3 @@
 # Library-Management
-This website is made using html and css
+
+this online library management system is made using html, css and javascript
